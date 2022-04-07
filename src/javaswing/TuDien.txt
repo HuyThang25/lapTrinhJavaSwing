@@ -1,0 +1,19 @@
+xin chao,chao xin
+hi,xin chao
+horse,con ngua
+know,biet
+get,lay
+hack,xam nhap
+who,ai
+where,o dau
+orange,qua cam
+dog,con cho
+pig ,con lon
+duck,con vit
+bird,con chim
+project,du an
+share,chia se
+like,thich
+interest,thu vi
+information,thong tin
+block,khoi
